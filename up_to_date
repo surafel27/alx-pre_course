@@ -8,7 +8,6 @@ git push
 git branch <branch_name>
 git checkout <branch_name>
 git status
-git pull
-git config --help 
+git pull 
 git push -f origin master
-
+git config --help
